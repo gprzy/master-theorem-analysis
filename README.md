@@ -1,4 +1,4 @@
-# master-theorem-analysis
+# Master Theorem Analysis
 
 <img src="https://github.com/gprzy/credit-scoring/blob/main/assets/puc.png" width="30%" height="30%"/>
 
